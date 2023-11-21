@@ -7,7 +7,7 @@ CREATE TABLE pelanggan (
 );
 
 CREATE TABLE toko(
-	nama_toko VARCHAR(255) PRIMARY KEY,
+	nama_toko VARCHAR(255),
 	telpon_toko VARCHAR(255),
 	alamat_toko VARCHAR(255)
 );
