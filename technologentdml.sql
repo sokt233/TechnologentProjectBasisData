@@ -62,10 +62,10 @@ INSERT INTO toko VALUES ('Galaxy Solusindo Sumbersari', '0341573785', 'Jl. Sumbe
 INSERT INTO toko VALUES ('Galaxy Solusindo Sumbersari', '0341573785', 'Jl. Sumbersari Kavling 02');
 INSERT INTO toko VALUES ('Galaxy Solusindo Sumbersari', '0341573785', 'Jl. Sumbersari Kavling 02');
 INSERT INTO toko VALUES ('Galaxy Solusindo Sumbersari', '0341573785', 'Jl. Sumbersari Kavling 02');
-INSERT INTO barang VALUES ('P102', 'PREDATOR', 5, 5, 'Fantech Mouse Gaming Thor X9', 95000,	70000, 0);
+INSERT INTO barang VALUES ('P102', 'PREDATOR', 5, 5, 'Fantech Mouse Gaming Thor X9', 95000, 70000, 0);
 INSERT INTO barang VALUES ('P105', 'PREDATOR', 6, 6, 'Mousepad Fantech MP64', 20000, 10000, 0);
 INSERT INTO barang VALUES ('K155', 'PREDATOR', 6, 5, 'LCD Cleaner Kit', 10000, 5000, 0.25);
-INSERT INTO barang VALUES ('MTY200', 'PREDATOR', 7, 7, 'Coil MasterTRIPLED TD147 Holder Macbook', 388900,	280000,	0);
+INSERT INTO barang VALUES ('MTY200', 'PREDATOR', 7, 7, 'Coil MasterTRIPLED TD147 Holder Macbook', 388900, 280000, 0);
 INSERT INTO barang VALUES ('ASY123', 'PREDATOR', 3, 3, 'BISON BI-1055AS 1D Barcode Scanner', 280000, 260000, 0);
 INSERT INTO barang VALUES ('SDH232', 'PREDATOR', 4, 4, 'EPSON TMU-220 Autocut', 2575000, 1500000, 0);
 INSERT INTO barang VALUES ('W323', 'PREDATOR', 1, 1, 'IWARE BS-R8S 2D Barcode Scanner', 550000, 500000, 0);
