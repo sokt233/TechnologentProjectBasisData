@@ -1,7 +1,7 @@
 USE technologent;
 
 CREATE TABLE pelanggan (
-    id_pelanggan INT PRIMARY KEY,
+    id_pelanggan VARCHAR(255) PRIMARY KEY,
     nama_pelanggan VARCHAR(255),
     no_telp VARCHAR(15)
 );
