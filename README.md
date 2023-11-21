@@ -6,5 +6,6 @@ Anggota Kelompok:
 2. GRATIA YUDIKA MORADO SILALAHI
 3. RYAN MUHAMMAD FIRDAUS
 4. NISRINA MASFUFAH AMALIA ROSIDAH
+5. Abyan Rifky Budiman
 
 sekian dari kelompok kami, apabila terdapat tambahan akan ditambahkan nanti. Terima Kasih. 
