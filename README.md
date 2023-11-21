@@ -7,4 +7,4 @@ Anggota Kelompok:
 3. RYAN MUHAMMAD FIRDAUS
 4. NISRINA MASFUFAH AMALIA ROSIDAH
 
-SEKIAN DARI KELOMPOK KAMI, JIKA ADA TAMBAHAN AKAN DIUPDATE NANTINYA
+sekian dari kelompok kami, apabila terdapat tambahan akan ditambahkan nanti. Terima Kasih. 
